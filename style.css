@@ -34,7 +34,6 @@ img {
   top: 27px;
   right: 0px;
   transform: rotate(50deg);
-  z-index: -1;
 }
 .top-right:hover {
   transform: rotate(180deg)
